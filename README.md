@@ -1,8 +1,6 @@
-# custom-pc-build
-Custom PC build (hardware and OS setup) completed after passing CompTIA A+ Core 1 and Core 2
 # My First Custom PC Build
 
-A personal hardware project I completed after passing CompTIA A+ (Core 1 and Core 2), built to apply what I learned and to support my cybersecurity studies.
+A personal project I completed after passing CompTIA A+ (Core 1 and Core 2), built to apply what I learned and to support my cybersecurity studies.
 
 ![Finished build](custom-pc-build.jpg)
 
