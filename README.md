@@ -4,7 +4,7 @@ Custom PC build (hardware and OS setup) completed after passing CompTIA A+ Core 
 
 A personal hardware project I completed after passing CompTIA A+ (Core 1 and Core 2), built to apply what I learned and to support my cybersecurity studies.
 
-![Finished build](images/custom-pc-build.jpg)
+![Finished build](custom-pc-build.jpg)
 
 ## Goal
 Build a PC that can run virtual machines and several programs at once (SIEM tools, a web browser and a local LLM), plus video conferencing and everyday use, while leaving room to upgrade.
